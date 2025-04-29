@@ -1,0 +1,57 @@
+reza@MacBook-Pro Project 2 %  cd /Users/reza/Desktop/Project\ 2 ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /User
+s/reza/Library/Application\ Support/Code/User/workspaceStorage/d0020dda2abd5820278d708390f288d7/redhat.java/jdt_ws/Project\ 2_d7e42ff9/bin ProducerConsumerSim 
+=== Starting Process Threads ===
+Process 5 started.
+Process 1 started.
+Process 4 started.
+Process 3 started.
+Process 2 started.
+Process 4 finished.
+Process 2 finished.
+Process 5 finished.
+Process 1 finished.
+Process 3 finished.
+
+=== Starting Producer-Consumer Simulation ===
+[Consumer 1] Waiting for lock to consume...
+[Producer 1] Waiting for lock to produce 0
+[Producer 1] Acquired lock and produced: 0
+[Consumer 1] Acquired lock and consumed: 0
+[Producer 1] Waiting for lock to produce 1
+[Producer 1] Acquired lock and produced: 1
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 1
+[Producer 1] Waiting for lock to produce 2
+[Producer 1] Acquired lock and produced: 2
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 2
+[Consumer 1] Waiting for lock to consume...
+[Producer 1] Waiting for lock to produce 3
+[Producer 1] Acquired lock and produced: 3
+[Consumer 1] Acquired lock and consumed: 3
+[Producer 1] Waiting for lock to produce 4
+[Producer 1] Acquired lock and produced: 4
+[Producer 1] Waiting for lock to produce 5
+[Producer 1] Acquired lock and produced: 5
+[Producer 1] Waiting for lock to produce 6
+[Producer 1] Acquired lock and produced: 6
+[Producer 1] Waiting for lock to produce 7
+[Producer 1] Acquired lock and produced: 7
+[Producer 1] Waiting for lock to produce 8
+[Producer 1] Acquired lock and produced: 8
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 4
+[Producer 1] Waiting for lock to produce 9
+[Producer 1] Acquired lock and produced: 9
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 5
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 6
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 7
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 8
+[Consumer 1] Waiting for lock to consume...
+[Consumer 1] Acquired lock and consumed: 9
+=== Simulation Complete ===
+reza@MacBook-Pro Project 2 % 
